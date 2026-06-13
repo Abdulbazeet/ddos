@@ -1,0 +1,26 @@
+# Virtual environment
+vic/
+
+# Dataset
+dataset/
+
+# Generated output
+output/
+output.csv
+
+# Uploads
+app/server/uploads/
+
+# PCAP files
+*.pcap
+*.pcapng
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
